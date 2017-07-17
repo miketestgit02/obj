@@ -1,3 +1,6 @@
 [submodule "Debug"]
 	path = Debug
 	url = https://github.com/miketestgit02/Debug
+[submodule "Release"]
+	path = Release
+	url = https://github.com/miketestgit02/Release
